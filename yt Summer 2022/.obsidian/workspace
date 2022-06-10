@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "5a4cfe60d0c4646a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b2da0661c344f99",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Hurricane_Tracker_Notes.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "2b5fdc7549720158",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Intake_Form_Boulder_Fire.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a667570d212d868",
+    "type": "split",
+    "children": [
+      {
+        "id": "710074a56ed4842c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f44de9264ccd78e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bbdd09cfe8173aba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 187
+  },
+  "right": {
+    "id": "74f15e6f046f4301",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b672feaa8f401e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e2ddd76da77ffc7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Intake_Form_Boulder_Fire.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2b5fdc7549720158",
+  "lastOpenFiles": [
+    "Intake_Form_Boulder_Fire.md",
+    "Intake_Form_Deep_Hurricane_Tracker_model.md",
+    "Hurricane_Tracker_Notes.md",
+    "Boulder_Fire_Notes.md",
+    "Intake_Form_Hurrricane_Irene.md",
+    "Intake_Form_3DSeismicVelocityModel.md",
+    "Intake_Form_Tomography.md",
+    "Intake_Form.md"
+  ]
+}
