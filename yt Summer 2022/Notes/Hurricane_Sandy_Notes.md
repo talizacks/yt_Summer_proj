@@ -1,4 +1,5 @@
 - 10 minute time interval between each file
 - #Hurricane_Sandy 
 - 06/20/22: Starting to use yt to load dataset
-- 
+	- only one time stamp per file so switching to boulder data
+	-  
