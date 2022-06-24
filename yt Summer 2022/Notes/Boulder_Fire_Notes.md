@@ -13,4 +13,4 @@
 
 ## yt
 * Loading into yt: give time and layer, get back a ds object with every variable and layer
-* 
+* Using depth as layers but not all variables within a layer type have the same number of levels
