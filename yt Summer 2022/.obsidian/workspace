@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Intake/Intake_Form.md",
+            "file": "Notes/MERRA-2_Notes.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intake/Intake_Form.md",
+                "file": "Notes/MERRA-2_Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,7 @@
   },
   "active": "2b5fdc7549720158",
   "lastOpenFiles": [
+    "Notes/MERRA-2_Notes.md",
     "Intake/Intake_Form.md",
     "Intake/Nested_Grid_Model_Intake.md",
     "Intake/Hurricane_Sandy_Intake_Form.md",
@@ -95,7 +96,6 @@
     "Intake/Intake_Form_Deep_Hurricane_Tracker_model.md",
     "Intake/Intake_Form_Hurrricane_Irene.md",
     "Intake/Intake_Form_Tomography.md",
-    "Intake/Seismic_waveform_Central_Eastern_Mediterranean_Intake_form.md",
-    "Notes/Boulder_Fire_Notes.md"
+    "Intake/Seismic_waveform_Central_Eastern_Mediterranean_Intake_form.md"
   ]
 }
