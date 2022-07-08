@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/YOM_Notes.md",
+            "file": "Intake/Intake_Form_Deep_Hurricane_Tracker_model.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/YOM_Notes.md",
+                "file": "Intake/Intake_Form_Deep_Hurricane_Tracker_model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,8 @@
   },
   "active": "f3e2f0825f833d3b",
   "lastOpenFiles": [
+    "Intake/Intake_Form_Deep_Hurricane_Tracker_model.md",
+    "Notes/Nueral_networks.md",
     "Notes/YOM_Notes.md",
     "Pasted image 20220701135500.png",
     "Notes/MERRA-2_Notes.md",
@@ -94,8 +96,6 @@
     "Notes/Hurricane_Sandy_Notes.md",
     "Notes/Hurricane_Irene_Notes.md",
     "Intake/Intake_Form_Hurrricane_Irene.md",
-    "Intake/Yilgarn-Officer-Musgrave_Intake_Form.md",
-    "Intake/Seismic_waveform_Central_Eastern_Mediterranean_Intake_form.md",
-    "Intake/Intake_Form_Tomography.md"
+    "Intake/Yilgarn-Officer-Musgrave_Intake_Form.md"
   ]
 }
